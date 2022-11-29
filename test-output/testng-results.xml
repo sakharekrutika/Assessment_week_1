@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-29T22:42:24 IST" name="Suite" finished-at="2022-11-29T22:42:24 IST" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2022-11-29T22:42:24 IST" name="Test" finished-at="2022-11-29T22:42:24 IST" duration-ms="43">
+      <class name="Concatination.concat">
+        <test-method signature="concatination()[pri:0, instance:Concatination.concat@5403f35f]" started-at="2022-11-29T22:42:24 IST" name="concatination" finished-at="2022-11-29T22:42:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- concatination -->
+      </class> <!-- Concatination.concat -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
